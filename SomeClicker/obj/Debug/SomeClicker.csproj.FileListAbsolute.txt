@@ -1,0 +1,11 @@
+D:\More\Programs\SomeClicker\SomeClicker\bin\Debug\phantomjs.exe
+D:\More\Programs\SomeClicker\SomeClicker\bin\Debug\phantomjs-license.txt
+D:\More\Programs\SomeClicker\SomeClicker\bin\Debug\SomeClicker.exe.config
+D:\More\Programs\SomeClicker\SomeClicker\bin\Debug\SomeClicker.exe
+D:\More\Programs\SomeClicker\SomeClicker\bin\Debug\SomeClicker.pdb
+D:\More\Programs\SomeClicker\SomeClicker\bin\Debug\NReco.PhantomJS.dll
+D:\More\Programs\SomeClicker\SomeClicker\obj\Debug\SomeClicker.exe
+D:\More\Programs\SomeClicker\SomeClicker\obj\Debug\SomeClicker.pdb
+D:\More\Programs\SomeClicker\SomeClicker\bin\Debug\WebDriver.dll
+D:\More\Programs\SomeClicker\SomeClicker\bin\Debug\WebDriver.xml
+D:\More\Programs\SomeClicker\SomeClicker\obj\Debug\SomeClicker.csprojResolveAssemblyReference.cache
